@@ -84,7 +84,7 @@ textarea {
 }
 
 form{
-    background: var(--color-darkblue-alpha);
+    background: var(--color-darkblue);
     padding: 2.5rem 0.625rem;
     border-radius: 0.25rem;
 }
